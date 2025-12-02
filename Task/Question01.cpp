@@ -27,4 +27,5 @@ int main () {
     S1.setValueOfAge(20);
     cout << "The name of student is " << S1.getName() <<endl;
     cout << "The age of student is " << S1.getAge() <<endl;
+    return 0;
 }
