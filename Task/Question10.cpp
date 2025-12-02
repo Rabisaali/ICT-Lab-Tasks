@@ -9,7 +9,7 @@ class Employee {
             return;
         }
         void displaySalary() {
-            cout << "The salary is: " << salary;
+            cout << "The salary is: " << salary << endl;
             return;
         }
 };
